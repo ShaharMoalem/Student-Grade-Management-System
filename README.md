@@ -26,7 +26,7 @@ The Student Grade Management System project provides a command-line interface fo
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/[YourGitHubUsername]/Student-Grade-Management-System.git
+git clone https://github.com/[ShaharMoalem]/Student-Grade-Management-System.git
 cd Student-Grade-Management-System
 ```
 
